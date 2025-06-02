@@ -17,7 +17,7 @@ purecodeit-multitenant-skeleton/
 ├── frontend/
 │   └── .gitkeep
 └── docs/
-└── schema-diagram.svg
+    └── schema-diagram.svg
 ````
 
 - **backend/**: folder onde o projeto Laravel será instalado.
